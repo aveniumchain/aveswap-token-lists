@@ -1,4 +1,4 @@
-# foxchain-token-lists
+# aveniumchain-token-lists
 # Partnership = dev@avenium.io
 # Group : @AveniumOfficial
 # Chanel : @AveniumNews
